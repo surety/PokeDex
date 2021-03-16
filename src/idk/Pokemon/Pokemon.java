@@ -13,10 +13,10 @@ class Pokemon implements PokemonInterface {
   public Pokemon(){}
 
   // Accessors and getters
-  public getNationalNumber(){ return this.nationalNum; }
-  public getName(){ return this.name; }
-  public getType(){ return this.type; }
-  public getGeneration(){ return this.region; }
-  public getEntries(){ return this.entries; }
+  public getNationalNumber(){ return this.NATIONAL_NUM; }
+  public getName(){ return this.NAME; }
+  public getType(){ return this.TYPE; }
+  public getGeneration(){ return this.GENERATION; }
+  public getEntries(){ return this.ENTRIES; }
 
 }
