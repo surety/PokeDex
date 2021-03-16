@@ -3,6 +3,8 @@
 // Editors: Danica
 // Handles card structes
 
+package PokeAPI;
+
 class CardContainer implements CardContainer{
   private LinkedList<Card> cards;
 

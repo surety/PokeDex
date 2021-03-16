@@ -2,6 +2,8 @@
 // Author: Zeus Polanco
 // March 2021
 
+package PokeAPI;
+
 // Interface (package-private) providing the specifications for the Pokemon class.
 interface Card extends Comparable<Card> {
 

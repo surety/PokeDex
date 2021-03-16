@@ -2,6 +2,8 @@
 // Author: Zeus Polanco
 // March 2021
 
+package PokeAPI;
+
 class Card implements CardInterface {
 
   private hp, dateLogged;

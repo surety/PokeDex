@@ -2,7 +2,7 @@
 // Author: Zeus
 // March 2021
 
-package Pokemon;
+package PokeAPI;
 
 class Pokemon implements PokemonInterface {
 

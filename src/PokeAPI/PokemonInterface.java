@@ -2,7 +2,7 @@
 // Author: Zeus
 // March 2021
 
-package Pokemon;
+package PokeAPI;
 
 // Interface (package-private) providing the specifications for the Pokemon class.
 interface Pokemon extends Comparable<Pokemon> {

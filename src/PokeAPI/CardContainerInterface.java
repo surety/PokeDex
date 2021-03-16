@@ -3,6 +3,8 @@
 // Editors: Danica
 // March 2021
 
+package PokeAPI;
+
 interface CardContainerInterface{
 
   public void addCard( Card card);
