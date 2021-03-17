@@ -1,7 +1,7 @@
 
 // Author: Zeus Polanco
 // March 2021
-
+//
 class Card implements CardInterface {
 
   private hp, dateLogged;
