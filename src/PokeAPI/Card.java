@@ -1,9 +1,13 @@
 
 // Author: Zeus Polanco
 // March 2021
+<<<<<<< HEAD:src/PokeAPI/Card.java
 
 package PokeAPI;
 
+=======
+//
+>>>>>>> 454e94da486df8868337d03cbf63e08d2bc75f4f:src/idk/Card.java
 class Card implements CardInterface {
 
   private hp, dateLogged;
